@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi, I'm Thalles! 👋
 
-<!--
-**thallesmarchetti/thallesmarchetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a mobile developer. <br>
+Currently living in Rio de Janeiro and working as Support IT Analyst. <br>
+My background includes a Postgraduation at MIT - Mobile Development and a BA in Business Administration. <br>
+My mobile stack is focused on iOS, React-Native, Android, and I’m always studying and learning more. <br>
 
-Here are some ideas to get you started:
+Brazilian and currently in the process of getting my Italian citizenship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I’m currently working on 🔭
+
+Currently building a personal/professional App - 😄 [Soon](https://github.com/thallesmarchetti)  <br>
+
+### Find me 🌎
+
+🚀 [Site](https://www.thallesmarchetti.com/) <br>
+💼 [LinkedIn](www.linkedin.com/in/thallesmarchetti) <br>
