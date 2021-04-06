@@ -15,3 +15,4 @@ Currently building a personal/professional App - 😄 [Soon](https://github.com/
 
 🚀 [Site](https://www.thallesmarchetti.com/) <br>
 💼 [LinkedIn](www.linkedin.com/in/thallesmarchetti) <br>
+💼 [PDF CV](https://drive.google.com/file/d/1LD5R8wUjYEp-n3B_Xf8RIcA-oIQTzGl9/view?usp=sharing)
