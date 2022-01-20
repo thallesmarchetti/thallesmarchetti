@@ -5,14 +5,13 @@ Currently living in Rio de Janeiro and working as Support IT Analyst. <br>
 My background includes a Postgraduation at MIT - Mobile Development and a BA in Business Administration. <br>
 My mobile stack is focused on iOS, React-Native, Android, and I’m always studying and learning more. <br>
 
-Brazilian and currently in the process of getting my Italian citizenship.
+Brazilian and Italian citizen.
 
 ### I’m currently working on 🔭
 
-Currently building a personal/professional App - 😄 [Soon](https://github.com/thallesmarchetti)  <br>
+Currently building a personal/professional App for iOS and Android - 😄 [Soon](https://github.com/thallesmarchetti)  <br>
 
 ### Find me 🌎
 
-🚀 [Site](https://www.thallesmarchetti.com/) <br>
+🚀 [Site](https://thallesmarchetti.vercel.app/) <br>
 💼 [LinkedIn](www.linkedin.com/in/thallesmarchetti) <br>
-💼 [PDF CV](https://drive.google.com/file/d/15IhnchdutoG122aZ9NJ1sq-7QRxMFBli/view?usp=sharing)
