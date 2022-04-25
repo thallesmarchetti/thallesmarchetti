@@ -1,11 +1,9 @@
 ## Hi, I'm Thalles! 👋
 
-I'm a mobile developer. <br>
-Currently living in Rio de Janeiro and working as Support IT Analyst. <br>
-My background includes a Postgraduation at MIT - Mobile Development and a BA in Business Administration. <br>
+Mobile developer, dual citizenship (Brazil and Italy) :brazil: :it: <br>
+Currently in the process of moving to Brisbane, Australia :australia: <br>
+My background includes a Postgraduation at Instituto Infnet (Rio de Janeiro, Brazil) Mobile Development and a BA in Business Administration. <br>
 My mobile stack is focused on iOS, React-Native, Android, and I’m always studying and learning more. <br>
-
-Brazilian and Italian citizen.
 
 ### I’m currently working on 🔭
 
