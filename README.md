@@ -1,4 +1,4 @@
-## Hi, I'm Thalles! 👋
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Thalles!
 
 Mobile developer, dual citizenship (Brazil and Italy) :brazil: :it: <br>
 Currently in the process of moving to Brisbane, Australia :australia: <br>
